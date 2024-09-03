@@ -32,7 +32,7 @@ const html = `
     <p>Based on work originally by <a href="https://kodieg.com">Kodie Grantham</a></p>
     <p><a href="https://github.com/redazzo/redirectmeto">GitHub</a></p>
     <div>
-      <h2>EXAMPLE</h2>
+      <h2>EXAMPLES</h2>
       <p><a href="https://redirectme.matauranga.net/https://www.google.com/search?q=puppies">https://redirectme.matauranga.net/https://www.google.com/search?q=puppies</a></p>
     </div>
   </body>
